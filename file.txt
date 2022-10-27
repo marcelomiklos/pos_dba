@@ -1,0 +1,12 @@
+1-Aspectos_introdutórios
+2-Linguagem_de_dados_1
+3-Linguagem_de_dados_2
+4-Linguagem_de_dados
+5-Gerenciamentode_Espaço_no_Banco_de_Dados
+6-Recuperação_e_Backup_de_dados
+7-Consultas_em_Banco_de_Dados
+8-Consultas_em_Banco_de_Dados_2
+9-Gerenciamento_de_Banco_de_Dados_1
+10-Gerenciamento_de_Banco_de_Dados_2
+11-Gerenciamento_de_Banco_de_Dados_3
+12-Gerenciamento_de_Banco_de_Dados_4
